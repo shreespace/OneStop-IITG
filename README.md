@@ -12,7 +12,7 @@ The OneStop IITG app aims to provide a centralized platform for students of IIT 
 #Heuristic Evaluation
 The evaluation is based on Jakob Nielsen's usability heuristics and covers:
 
-1.Visibility of system status
+1.Visibility of system status/n
 2.Match between system and the real world
 3.User control and freedom
 4.Consistency and standards
